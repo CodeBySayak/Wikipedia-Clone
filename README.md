@@ -8,5 +8,5 @@ This project is part of my journey toward mastering web development, showcasing 
 Features
 Responsive layout using Flexbox and CSS Grid
 Wikipedia-style design and typography
-Clean, semantic HTML structure
-Optimized for readability across all screen sizes
+
+Check the layout of the project here: https://aquamarine-sunflower-0ee7f6.netlify.app/
